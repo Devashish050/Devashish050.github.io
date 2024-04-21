@@ -1,0 +1,8 @@
+<!-- ---
+title: Devashish Bhavsar
+image: /images/RL-Team.jpg
+about:
+  template: trestles
+  image-width: 15em
+  image-shape: round
+--- -->
